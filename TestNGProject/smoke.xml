@@ -1,0 +1,18 @@
+<suite> name="smoke"
+<test>name="coreTest"
+<packages>
+<package name="com.bit.test"></package>
+</packages>
+<classes>
+<class name="com.bit.test.RegressionTest">
+<methods>
+<include name="test2"></include>
+
+</methods>
+</class>
+</classes>
+
+</test>
+
+
+</suite>
